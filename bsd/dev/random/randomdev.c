@@ -1,4 +1,4 @@
-/*
+/*(lldb) help showcurrentstacks
  * Copyright (c) 1999-2009 Apple, Inc. All rights reserved.
  *
  * @APPLE_OSREFERENCE_LICENSE_HEADER_START@
