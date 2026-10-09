@@ -1,4 +1,4 @@
-_VNOP_BWRITE
+(lldb) help showcurrentstacks_VNOP_BWRITE
 _VNOP_FSYNC
 _VNOP_IOCTL
 _VNOP_READ
